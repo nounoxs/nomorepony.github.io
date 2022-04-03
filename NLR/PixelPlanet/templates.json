@@ -1,0 +1,44 @@
+{
+    "Flag":{
+        "x" : 0,
+        "y" : 0,
+        "width"  : 765,
+        "height" : 527
+    },
+    "sych_anarchy":{
+        "x" : -16534,
+        "y" : -2506,
+        "width"  : 133,
+        "height" : 69
+    },
+    "MainButt":{
+        "x" : -22334,
+        "y" : -2587,
+        "width"  : 849,
+        "height" : 714
+    },
+    "Schutzstaffeln":{
+        "x":-20202,
+        "y":-2023,
+        "width": 604,
+        "height": 340
+    },
+    "flatti_with_red":{
+        "x":-19810,
+        "y":-2193,
+        "width": 213,
+        "height": 170
+    },
+    "rennet_things":{
+        "x":-23448,
+        "y":-3376,
+        "width": 153,
+        "height": 427
+    },
+    "hazbin_luna":{
+        "x":-20850,
+        "y":-1114,
+        "width": 357,
+        "height": 372
+    }
+}  
